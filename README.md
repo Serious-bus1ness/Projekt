@@ -1,5 +1,6 @@
 # SERIOUS BUS1NESS
-# 5 lines 
+# DESCRIPTION
+DSAKJDKSA
 # MEMBERS
 * Karlo Prašnjak
 * Robert Dujlović
