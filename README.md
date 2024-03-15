@@ -1,5 +1,5 @@
 # SERIOUS BUS1NESS
-# "will be doing some serious business"
+# 5 lines 
 # MEMBERS
 * Karlo Prašnjak
 * Robert Dujlović
