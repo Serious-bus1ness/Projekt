@@ -1,0 +1,42 @@
+Sentiment se određuje prema 4-stupanjskoj ljestvici:
+1.	NEGATIVE – negativan sentiment
+2.	NEUTRAL – neutralan sentiment
+3.	POSITIVE – pozitivan sentiment
+4.	MIXED – mješovit sentiment, dio rečenice pozitivan, dio rečenice negativan
+
+Primjeri rečenica pozitivnog sentimenta:
+Krajolik planeta Arrakis koji je divno stvorio tim za vizualne efekte oduzima dah. – riječ divno i fraza „oduzima dah“
+I ne mogu toliko napisati o filmu a da ne spomenem odlične performanse. – „odlične performanse“
+Ocjena na IMDb.com mu je odličnih 8/10 a na Tomatoesima zavidnih 90%. – važan kontekst, visoke ocjene donose pozitivan sentiment
+-	Rečenice sadrže puno eufemizama
+
+
+Primjeri rečenica neutralnog sentimenta:
+Btw, ovaj film je režirao Travis Knight.
+Postavka priče jasna je sada kad ima smisla i zaista se može dogoditi.
+Također je ovdje bio koproducent i koscenarist.
+-	Rečenice često govore neke opće činjenice
+
+Primjeri rečenica negativnog sentimenta:
+Ali finale me osobno nije previše zadovoljilo jer nije pružilo spektakularan rat kakvom sam se nadao. – „nije previše zadovoljilo“, „nije pružilo“
+Stoga ako možete zaobiđite ovo u širooookom luku.
+Zahvaljujući svojoj naravi uspješan je samo u jednom – gubljenju i posljednjeg dolara. – sarkastičan komentar, negativan sentiment
+
+
+Primjeri rečenica mješovitog sentimenta:
+Bilo je zabavno da, ali iskreno sam osjetio da vrhunac nije bio istinski zadovoljavajući, pogotovo nakon što se takav nagomilao u sredini. – prvi dio rečenice pozitivan, drugi dio negativan
+Zaključno, mislim da je film uistinu dobar, i dogodilo se da se slažem s mišljenjem kritičara o ovom filmu, ali vjerujem da to možda neće privući opštu publiku posebno zbog brzine i trajanje. – prvi dio pozitivan, drugi dio negativan
+Nemojte me pogrešno shvatiti, film nije niti dosadan niti nezanmljivi, ali sam uspio ja obuzdati san čisto zbog toga da odgledam film jer mi taka neizvjesnost i kompleksnost priče nisu dali mira. – prvi dio pozitivan, drugi dio negativan
+-	Rečenice najčešće sadrže „ali“ u sebi
+
+
+
+
+
+
+
+
+
+
+
+
