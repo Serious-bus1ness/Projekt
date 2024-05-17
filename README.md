@@ -1,6 +1,6 @@
 # SERIOUS BUS1NESS
 # DESCRIPTION
-Anotacija recenzija SCI-FI filmova sa stranice Recenzije filmova (https://www.recenzijefilmova.com/) 
+Anotacija recenzija SCI-FI & Fantasy filmova sa stranice Recenzije filmova (https://www.recenzijefilmova.com/) 
 
 # MEMBERS
 * Karlo Prašnjak
