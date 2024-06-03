@@ -9,13 +9,13 @@ Anotacija recenzija SCI-FI & Fantasy filmova sa stranice Recenzije filmova (http
 * Leon Vlašić
 * Domagoj Maljković
 
-#FLEISS KAPPA
+# FLEISS KAPPA
 0.8116852778942195
 
-#PRVI MODEL
+# PRVI MODEL
 Preciznost: 53.47%
 F1-Mjera: 41.51%
 
-#MODEL SA STOP RIJEČIMA
+# MODEL SA STOP RIJEČIMA
 Preciznost: 52.31%
 F1-Mjera: 37.88%
